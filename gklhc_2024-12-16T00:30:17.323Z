@@ -1,0 +1,22 @@
+id = "AKIA4J5CMXUGUIJESRE2"
+ky = "Kc/sb47JJfFN1H8XupeRGiLcgPFTBR/B3clvepQZ"
+
+
+gcp_json = '''{
+  "type": "service_account",
+  "project_id": "project-m",
+  "private_key_id": "a541c531e022839ed6c028d9f8458b91dba36d5b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADLOGgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTgyav7wIb6ELg\nDc/0YkjlCCCEKyMGefPwE1Bu3k38/Bg0X/9s5A7Pl/f0rhlTPfefIUYTB2AyyiEf\ntfUc4ICabq8IQBcLD+jqLiIxmnYzc6m1fNPlHg+Ingrx3KM3LHm3U9hNvmueST1B\nlk31nKKOUjKI00Rr5Uq5QG1MfCAW+vBMYxzBWgB+ke6PvY8fmwj0uMIRSiEwp0Ge\n8MNj26u8siPNImSJPixjX4Whqf+gZ/BXN+OaATFZEO7cqEwJB3S7rk9F3JVIg5Oz\nDm4Tma26mf69d8h922QubQGIwWkYOj5wB8W7OcJ0ffX0+7980EQsB25+gWmCgUt3\nUs5H7raVAgMBAAECggEAA4T6p1HITLOULUs9ixj5kooMlHZtSkXMN9HydC3RyWRe\neLyiMOsoje6+6vzcogR1ctnoYxer05yGaZMrBXSv/SHbV4ttdrsoioEDA6VI0zlY\n+RKfKgC4hErw7q5XrurYCaNlBYImI0efs9Au8ufM0qZufdVaHZt+n0+BohSsqgUy\nKNbmTlyDggQ+4WnFWzZyMaCQuM70WXRq+QKg2NHKGGfXJ+QpKHRlyHWqGz9btCSC\n8V9SqbFRwpgSSKzMECiN+XCvAeJaMpxwdrA6dCEfJobjX7G+ojJ6KN42Q6IT0CtZ\n1eYlMgqUic3uiJFsDv+KcS0p5NcmI4YU2IbUo4H2/wKBgQD4MiaThlh+LdzpjGbx\n1PgbVxyAW4zK1imFWs3JrEgJYXnnOdtG2I0Nunr1+RFLJt5Ub5F8MKXrUvMJwYSb\nE5UzJFmjZKByazGB4ke+ejY08kaG13SrtghAEng7MErDrd6DfweIheCajjJjK4Nd\nHSqMRFSXe9xACMfHF+iMXtrxkwKBgQDaKbdlXn8EIKPoGdbYOAUT3Qz5b2OfvFI0\nmEXArxfwP8S5DutGuOUt88q4/v6ZmFt1qslButISC8pZ1rB8+JZ+oOspVx1dNaxu\nv5gNxOr6GPSIi/S3JTsrxmsPZADt5ZDmqhwJDI2440AbxDLd/Z0p8eK2nPx+4rnI\nTw7mKMnwNwKBgAuO6lT8cKqPoDYQH8srS9KaH+2qVcgsaQqYy/SUXVZyf6bQ/vGo\n5Ai7onZJ/xAs4zWzbGcILPHkjwTpSi+endgf3TzKtt4dN9UAoK6yKkwU7EvjRL+q\nXn/9XDQFb7XlJvOgus0Uzvzjml0b7aYscYrOs9HKJkikjQksh9vhnviZAhJBAJqU\nHGIzBoSCLCD0zgn+B3r/kYXbqxcvdH/XtPTGG4wbYuRM8d/2ekyJBQb3hqaGEafa\nDygHm3k16Xama/7glKG8m2N7Wk8FDNyb3L1E3cm/jOSDZi2ur7JgsNMC5LWrh3Qo\n7BxtTK3IN1B1QCWS4Z0qypzhtvag50pK2h+ynwMZAoGANQ/60AWLwN83F8Zafo6t\nsmTihw6E7t8M0Qg6NsRZk4+xGldj3ELqk7rFP8+gKJ6RS7wyK43lsuARspAHp3dD\nQhWYu2vdYHa9CEQwKSHFlg0ErnHH+9DXy+X0bWQhthCoVJAC2HEBpvw30ZEEnW1r\nd3AlqMiBADbwnvsSpIoB7Ag=\n-----END PRIVATE KEY-----\n",
+  "client_email": "checkschecks@project-m.iam.gserviceaccount.com",
+  "client_id": "105578208798668730022",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/checkschecks%40project-m.iam.gserviceaccount.com"
+}'''
+
+value = "Y.76KMwLRq6JfpWQK8j7RJwjtsXX-8-8N."
+ky = "8be67489-dgf9-4c15-732e-737f659db900"
+
+usr = jfkd
+pss = jf84&fk$cjd=
